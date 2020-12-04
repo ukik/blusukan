@@ -17,7 +17,7 @@ use App\ViewWargaModel;
 use App\Http\Resources\WargaResourceCollection;
 use App\Http\Resources\WargaJsonResource;
 
-class WargaController extends Controller
+class _WargaController extends Controller
 {
 
     private $timeup = null;
